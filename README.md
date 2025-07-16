@@ -32,3 +32,4 @@ DATABASE_URL="sqlite:///./auth.db"
 Run:
 uvicorn main:app --reload  
 📌 Explore: Interactive docs at http://localhost:8000/docs.
+
